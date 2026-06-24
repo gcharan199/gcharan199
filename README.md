@@ -24,6 +24,7 @@ I ship **real AI products**, not tutorials — each project below has a **live d
 | 🎙️ **AI Interview Coach** | Voice mock-interview agent: asks role-specific questions, scores answers against a rubric, gives instant feedback. | `Next.js 15` · `TypeScript` · `Gemini` · Web Speech | [Repo](https://github.com/gcharan199/ai-interview-coach) · _live soon_ |
 | 📄 **Resume ↔ JD Matcher** | Upload a resume + job description → semantic match score, skill-gap report, and rewrite suggestions. | `FastAPI` · `Python` · `React` · Gemini embeddings | [Repo](https://github.com/gcharan199/resume-jd-matcher) · _live soon_ |
 | 📚 **RAG Knowledge Assistant** | Grounded document Q&A with **citations** and an honest "I don't know" guardrail. Measured hallucination rate. | `Go` · `Next.js` · vector search · Gemini | [Repo](https://github.com/gcharan199/rag-knowledge-assistant) · _live soon_ |
+| 🦀 **Self-Correcting Coder** | Coding agent that generates code, runs tests, reads the failures, and **iterates until green** (or gives up gracefully). Measured pass@k. | `Rust` · `Gemini` · CLI | [Repo](https://github.com/gcharan199/self-correcting-coder) |
 | 🪵 **vibelog** | Dev tool that auto-logs AI-assisted coding activity into daily summaries. Claude Code slash commands. | `Shell` · CLI | [Repo](https://github.com/gcharan199/vibelog) |
 
 > Each project README includes architecture, setup, **eval results**, and a live demo link.
@@ -33,6 +34,7 @@ I ship **real AI products**, not tutorials — each project below has a **live d
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -52,7 +54,7 @@ I ship **real AI products**, not tutorials — each project below has a **live d
 
 ### 🌱 Currently
 
-- Building the 3 featured projects above (deploying them one by one).
+- Building & deploying the featured projects above, one by one.
 - Deepening real-time ML, RAG evaluation, and agent reliability.
 
 ### 🤝 Connect
