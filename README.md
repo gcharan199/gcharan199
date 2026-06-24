@@ -25,7 +25,7 @@ I ship **real AI products**, not tutorials — each project below has a **live d
 | 📄 **Resume ↔ JD Matcher** | Upload a resume + job description → semantic match score, skill-gap report, and rewrite suggestions. | `FastAPI` · `Python` · `React` · Gemini embeddings | [Repo](https://github.com/gcharan199/resume-jd-matcher) · _live soon_ |
 | 📚 **RAG Knowledge Assistant** | Grounded document Q&A with **citations** and an honest "I don't know" guardrail. Measured hallucination rate. | `Go` · `Next.js` · vector search · Gemini | [Repo](https://github.com/gcharan199/rag-knowledge-assistant) · _live soon_ |
 | 🦀 **Self-Correcting Coder** | Coding agent that generates code, runs tests, reads the failures, and **iterates until green** (or gives up gracefully). Measured pass@k. | `Rust` · `Gemini` · CLI | [Repo](https://github.com/gcharan199/self-correcting-coder) |
-| 💸 **FinPilot AI** | **Local-first** mobile finance copilot — AI **receipt-vision** scanning, finance-aware chat & a **Financial Health Score**. On-device-AI ready. | `React Native` · `Expo` · `TypeScript` · Gemini | [Repo](https://github.com/gcharan199/finpilot-ai) |
+| 💸 **FinPilot AI** | **100% on-device** mobile finance copilot — on-device **OCR** receipt scanning, on-device-**LLM** chat & a **Financial Health Score**. No cloud, no API key. | `React Native` · `Expo` · `TypeScript` · on-device LLM | [Repo](https://github.com/gcharan199/finpilot-ai) |
 | 🪵 **vibelog** | Dev tool that auto-logs AI-assisted coding activity into daily summaries. Claude Code slash commands. | `Shell` · CLI | [Repo](https://github.com/gcharan199/vibelog) |
 
 > Each project README includes architecture, setup, **eval results**, and a live demo link.
