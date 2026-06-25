@@ -67,5 +67,5 @@ I ship **real AI products**, not tutorials — each project below has an **evalu
 
 <sub>⭐ If a project helps you, a star is appreciated.</sub>
 
-<!-- profile README -->
+<!-- profile-readme: registered via API -->
 
