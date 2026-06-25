@@ -15,20 +15,20 @@
 
 ### 🚀 What I build
 
-I ship **real AI products**, not tutorials — each project below has a **live demo**, an **evaluation suite** (measured accuracy, not vibes), and **CI**. I work across the stack and pick the right language for the job.
+I ship **real AI products**, not tutorials — each project below has an **evaluation suite** (measured accuracy, not vibes), **CI**, and a documented run/deploy path. I work across the stack and pick the right language for the job. Ordered below by relevance.
 
 ### 🧩 Featured Projects
 
-| Project | What it does | Stack | Links |
-|---|---|---|---|
-| 🎙️ **AI Interview Coach** | Voice mock-interview agent: asks role-specific questions, scores answers against a rubric, gives instant feedback. | `Next.js 15` · `TypeScript` · `Gemini` · Web Speech | [Repo](https://github.com/gcharan199/ai-interview-coach) · _live soon_ |
-| 📄 **Resume ↔ JD Matcher** | Upload a resume + job description → semantic match score, skill-gap report, and rewrite suggestions. | `FastAPI` · `Python` · `React` · Gemini embeddings | [Repo](https://github.com/gcharan199/resume-jd-matcher) · _live soon_ |
-| 📚 **RAG Knowledge Assistant** | Grounded document Q&A with **citations** and an honest "I don't know" guardrail. Measured hallucination rate. | `Go` · `Next.js` · vector search · Gemini | [Repo](https://github.com/gcharan199/rag-knowledge-assistant) · _live soon_ |
-| 🦀 **Self-Correcting Coder** | Coding agent that generates code, runs tests, reads the failures, and **iterates until green** (or gives up gracefully). Measured pass@k. | `Rust` · `Gemini` · CLI | [Repo](https://github.com/gcharan199/self-correcting-coder) |
-| 💸 **FinPilot AI** | **100% on-device** mobile finance copilot — on-device **OCR** receipt scanning, on-device-**LLM** chat & a **Financial Health Score**. No cloud, no API key. | `React Native` · `Expo` · `TypeScript` · on-device LLM | [Repo](https://github.com/gcharan199/finpilot-ai) |
-| 🪵 **vibelog** | Dev tool that auto-logs AI-assisted coding activity into daily summaries. Claude Code slash commands. | `Shell` · CLI | [Repo](https://github.com/gcharan199/vibelog) |
+| # | Project | What it does | Stack | Links |
+|---|---|---|---|---|
+| 1 | 💸 **FinPilot AI** ⭐ | **100% on-device** mobile finance copilot — on-device **OCR** receipt scanning, on-device-**LLM** chat & a **Financial Health Score**. No cloud, no API key. | `React Native` · `Expo` · `TypeScript` · on-device LLM | [Repo](https://github.com/gcharan199/finpilot-ai) |
+| 2 | 📚 **RAG Knowledge Assistant** | Grounded document Q&A with **citations** and an honest "I don't know" guardrail. Measured hallucination rate. | `Go` · `Next.js` · vector search · Gemini | [Repo](https://github.com/gcharan199/rag-knowledge-assistant) |
+| 3 | 🎙️ **AI Interview Coach** | Voice mock-interview agent: asks role-specific questions, scores answers against a rubric, gives instant feedback. | `Next.js 15` · `TypeScript` · `Gemini` · Web Speech | [Repo](https://github.com/gcharan199/ai-interview-coach) |
+| 4 | 🦀 **Self-Correcting Coder** | Coding agent that generates code, runs tests, reads the failures, and **iterates until green** (or gives up gracefully). Measured pass@k. | `Rust` · `Gemini` · CLI | [Repo](https://github.com/gcharan199/self-correcting-coder) |
+| 5 | 📄 **Resume ↔ JD Matcher** | Upload a resume + job description → semantic match score, skill-gap report, and rewrite suggestions. | `FastAPI` · `Python` · `React` · Gemini embeddings | [Repo](https://github.com/gcharan199/resume-jd-matcher) |
+| 6 | 🪵 **vibelog** | Dev tool that auto-logs AI-assisted coding activity into daily summaries. Claude Code slash commands. | `Shell` · CLI | [Repo](https://github.com/gcharan199/vibelog) |
 
-> Each project README includes architecture, setup, **eval results**, and a live demo link.
+> Each project README includes architecture, setup, **eval results**, and run/deploy instructions.
 
 ### 🛠️ Tech I work with
 
