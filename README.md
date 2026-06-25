@@ -66,3 +66,6 @@ I ship **real AI products**, not tutorials — each project below has an **evalu
 [![GitHub](https://img.shields.io/badge/GitHub-gcharan199-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gcharan199)
 
 <sub>⭐ If a project helps you, a star is appreciated.</sub>
+
+<!-- profile README -->
+
